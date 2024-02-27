@@ -141,3 +141,17 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 ** no instance found **
 (hbnb) quit
+<<<<<<< HEAD
+=======
+```
+
+## Bugs
+No known bugs at this time. 
+
+## Authors
+Aymane BAHLA - [Github](https://github.com/TheYaksha00)
+Lamia ACHRIH - [Github](https://github.com/lamia1998)
+
+## License
+Public Domain. No copy write protection. 
+>>>>>>> 6e7511263a25b22fb7180a2a53d1daa63c24a997
